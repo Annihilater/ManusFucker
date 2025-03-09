@@ -16,6 +16,11 @@ cd ManusFucker
 ```
 
 2. Install dependencies
+
+- Install Chrome
+
+- Install Python packages
+
 ```bash
 pip install -r requirements.txt
 ```

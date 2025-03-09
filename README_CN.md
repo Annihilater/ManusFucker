@@ -17,6 +17,9 @@ cd ManusFucker
 
 
 2. 装依赖
+
+- 装谷歌浏览器
+- 装Python依赖
 ```bash
 pip install -r requirements.txt
 ```
