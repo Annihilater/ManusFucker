@@ -1,49 +1,49 @@
 # ManusFucker 🤬 
 
-## 干碎Manus的破邀请码！
+[中文文档](./README_CN.md)
 
-Deepseek说：什么？Manus.im还tm要邀请码？去他奶奶个腿！老子反手就是一个暴力破解脚本！💥
+## Smash through Manus invitation codes!
 
-这是一个用 DrissionPage 的自动化工具，用于批量尝试 Manus.im 的邀请码 🤖
+Deepseek: What? Manus.im requires an invitation code? To hell with that! I'll whip up a brute force script with a snap! 💥
 
-## 安装姿势 💻
-1. 把代码给clone下来
+This is an automation tool using DrissionPage to batch test Manus.im invitation codes 🤖
+
+## Installation 💻
+1. Clone the code
 ```bash
 git clone https://github.com/HenryXiaoYang/ManusFucker.git
 cd ManusFucker
 ```
 
-
-2. 装依赖
+2. Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-Deepseek: 报错自己解决，别问，问就是重装系统
+Deepseek: Fix errors yourself, don't ask, just reinstall your system if needed
 
-## 开冲！🏃
+## Let's Go! 🏃
 ```bash
 python main.py
 ```
 
-然后你会看到：
-- 浏览器自动打开
-- 和Cloudflare斗智斗勇
-- 疯狂尝试邀请码
-- 成功码自动保存
+Then you'll see:
+- Browser automatically opens
+- Battles with Cloudflare
+- Furiously tries invitation codes
+- Successful codes automatically saved
 
+## Output Files 📜
+- `success_codes.txt` - Victory list
+- `failed_codes.txt` - Wall of martyrs
+- `manusfucker.log` - Operation records
 
-## 输出文件说明 📜
-- `success_codes.txt` 上岸
-- `failed_codes.txt` 烈士墙
-- `manusfucker.log` 作案记录
+## Precautions ⚠️
 
-## 注意事项 ⚠️
+1. Do not close the browser window while the program is running
+2. Ensure stable network connection
+3. If Cloudflare verification issues occur, the program will handle them automatically
+4. Recommended to use a proxy or VPN to avoid IP bans
 
-1. 程序运行过程中请勿关闭浏览器窗口
-2. 确保网络连接稳定
-3. 如遇到 Cloudflare 验证问题，程序会自动处理
-4. 建议使用代理或 VPN，避免 IP 被封禁
+## Disclaimer ⚖️
 
-## 免责声明 ⚖️
-
-本工具仅供学习和研究使用，请勿用于非法用途。使用本工具所产生的任何后果由使用者自行承担。
+This tool is for learning and research purposes only. Do not use for illegal purposes. Any consequences arising from the use of this tool are the sole responsibility of the user. 
